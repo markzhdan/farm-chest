@@ -1,0 +1,7 @@
+name: FarmChest
+version: ${project.version}
+main: me.cuft.farmchest.FarmChest
+api-version: 1.17
+commands:
+  farmchest:
+    description: Custom chest loot
