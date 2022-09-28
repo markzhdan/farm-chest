@@ -27,8 +27,7 @@ is in the spawn radius.
       - Each chest can store and spawn 27 items with all unique data (rates, amount, radius).
 
 4. Player QOL.
-      - Stored player data on last equipped and unlocked cosmetics.
-      - Easy to use GUI with a simple layout.
+      - Simple to use plugin with little to no interactions (keeps plugin simple with high output impact).
 
 5. Admin control.
       - Allowed admins to change item data through a custom GUI.
