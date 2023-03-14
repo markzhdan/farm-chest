@@ -1,4 +1,4 @@
-# MCSpigot-FarmChest
+# Farm Chest
 >One of my big projects...
 
 Minecraft Spigot plugin for Odium SMP that introduced farm chests / loot boxes into the game.
